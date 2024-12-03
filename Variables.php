@@ -16,4 +16,8 @@
 
     // * output : boolean : 1 , float : 3.5 , integer : 12 , char = A , string : Aya , boolean false :
 
+
+    // ! PHP has a built-in exponent which is ** e.g: a**b => a to the power of b 
+    // * Operator Precedence
+    // * () =>  **  =>  * / %  =>  + - 
 ?>
